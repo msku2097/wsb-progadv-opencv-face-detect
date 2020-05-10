@@ -1,0 +1,7 @@
+numpy
+opencv-contrib-python
+dlib
+time
+argparse
+imutils
+
